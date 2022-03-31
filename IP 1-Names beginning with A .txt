@@ -1,0 +1,9 @@
+UseCase: Count number of strings starting with 
+letter 'a' in an array of names
+
+InputString: "John", "Jane", "Andrew", "Ann", "Albert", "Rose"
+Input Char: A
+
+Output: 3
+
+Letter 'A' Names
