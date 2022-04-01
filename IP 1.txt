@@ -1,0 +1,9 @@
+UseCase: Count of  words starting with the letter 'a' in name array
+
+ArrayNames: {"John", "Jane", "Andrew", "Ann", "Albert", "Rose"}
+
+InputArray: 
+
+LetterANames
+
+Letter 'a' Names
